@@ -1,10 +1,9 @@
 # Internship-Task-5
-
-Task 5 — Exploratory Data Analysis (Titanic Dataset)
+Exploratory Data Analysis (Titanic Dataset)
 
 This project explores the Titanic dataset to uncover insights about passenger survival using Python and popular data visualization libraries.
 The goal was to understand how factors like age, gender, class, and fare influenced survival outcomes.
-The notebook walks through the complete Exploratory Data Analysis (EDA) process — from loading and cleaning data to analyzing and visualizing survival trends.
+The notebook walks through the complete Exploratory Data Analysis (EDA) process from loading and cleaning data to analyzing and visualizing survival trends.
 The analysis highlights hidden relationships between variables and offers a hands-on experience with Pandas, Matplotlib, and Seaborn for data storytelling.
 
 # Tools & Libraries
